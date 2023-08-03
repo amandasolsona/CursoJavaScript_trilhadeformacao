@@ -1,5 +1,5 @@
 # Curso de JavaScript: Do Básico ao Avançado
-Este curso abrange tudo o que você precisa saber sobre JavaScript, desde os conceitos básicos até os tópicos mais avançados. Aqui iremos incluir todos os exercícios propostos no curso;
+Este curso abrange tudo o que você precisa saber sobre JavaScript, desde os conceitos básicos até os tópicos mais avançados. Aqui irei incluir todos os exercícios propostos no curso;
 
 ## Conteúdo
 1. Exercício sobre Tipos de Dados
