@@ -37,6 +37,9 @@ Este curso abrange tudo o que você precisa saber sobre JavaScript, desde os con
    * Escreva uma função que recebe uma string; Se o texto conter mais de 10 caracteres imprima “Texto muito longo”; Se conter menos, imprima “Texto dentro do limite”;
    * Escreva uma função que receba dois números, o primeiro é a base e o segundo a potência; Depois faça essa operação e retorne o resultado; Por exemplo: 3, 2 = 9
    * Escreva uma função que recebe um número, e o decrementa de 1 em 1 com um loop; Além disso imprima somente os números pares no console;
+   * **Desafio 01:** Crie uma função chamada soma que aceita três números como argumentos; Retorne a soma dos três números; Crie uma variável chamada resultado; Ela deve conter o retorno da função, passe os números 5, 10 e 15 como argumento;
+   * **Desafio 02:**
+   * 
 
 5.    
 
