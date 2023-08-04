@@ -21,8 +21,13 @@ Este curso abrange tudo o que você precisa saber sobre JavaScript, desde os con
    * Escreva um loop for que exibe números de 100 a 50 no console;
    * Escreva um loop for ou while que exiba qual o número é par e qual é o número é impar, o contador deve iniciar em 0 e ir até 50;
    * Desafio: Verifique se o número é primo ! Um número primo, é um número natural, maior que 1 e apenas divisível por si próprio e por 1;
-  
+   * Desafio 2: Crie uma variável chamada a com o valor de 10 e uma chamada de b com o valor de 5. Some as duas variáveis em uma nova variável chamada c. Exiba o resultado de c no console;
+   * Desafio 3: Faça uma condicional if para verificar se a é maior que b. Se for: mude o valor de resultado para "É maior". Se não for: mude o valor de resultado para "É menor". Note que a segunda mudança precisa estar em um else. Imprima o valor de resultado após a condicional;
+   * Desafio 4: Preencha a variável semPares apenas com números ímpares; Utilize uma estrutura de loop para percorrer o array arr; Verifique se o número é ímpar e coloque no array semPares; No final, exiba o array semPares com console.log;
+   * Desafio 5: Crie uma função chamada classificarNumero que recebe um número inteiro como argumento.A função deve retornar uma string com a classificação do número de acordo com as seguintes regras:Se o número for positivo e par, retorne "Positivo e Par"; Se o número for positivo e ímpar, retorne "Positivo e Ímpar". Se o número for negativo, retorne "Negativo". Se o número for zero, retorne "Neutro".
+       
 3. Exercício sobre Funções  
+
 
 Pré-requisitos
 Para aproveitar ao máximo o conteúdo, é recomendável ter conhecimentos básicos de HTML5, CSS e JS.
